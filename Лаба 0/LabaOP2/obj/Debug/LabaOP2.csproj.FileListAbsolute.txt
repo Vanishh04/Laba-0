@@ -1,0 +1,11 @@
+C:\Users\ПК\source\repos\LabaOP2\bin\Debug\LabaOP2.exe.config
+C:\Users\ПК\source\repos\LabaOP2\bin\Debug\LabaOP2.exe
+C:\Users\ПК\source\repos\LabaOP2\bin\Debug\LabaOP2.pdb
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.Form1.resources
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.Properties.Resources.resources
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.exe
+C:\Users\ПК\source\repos\LabaOP2\obj\Debug\LabaOP2.pdb
